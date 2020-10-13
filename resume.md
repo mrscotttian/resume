@@ -1,6 +1,6 @@
 # Scott Tian 田书炜
 
-Mobile: +86 18262285018</br>
+Mobile: +86 18621813754</br>
 Email: scotttian2014@outlook.com</br>
 Github: https://github.com/mrscotttian</br>
 
@@ -17,10 +17,10 @@ CET6
 ### *2016.06 - 至今*&nbsp;&nbsp;&nbsp;慈术济生（上海）网络信息科技有限公司&nbsp;&nbsp;&nbsp;前端开发工程师
 - 主要负责专家门诊网以及部分医院相关系统的前端开发
 - 部分项目的技术选型和业务流程用例梳理等前期工作
-- 前端涉及的能提高开发效率的工具脚本的编写，如脚手架等
+- 前端涉及的能提高开发效率的工具脚本的编写，如脚手架搭建等
 - 前端项目性能优化
-- 前端历史遗留项目的维护工作
-### *2015.06 - 2015.12*&nbsp;&nbsp;&nbsp;苏州捷赛机械股份有限公司&nbsp;&nbsp;&nbsp;市场助理
+- 前端历史遗留项目的维护及重构工作
+<!-- ### *2015.06 - 2015.12*&nbsp;&nbsp;&nbsp;苏州捷赛机械股份有限公司&nbsp;&nbsp;&nbsp;市场助理 -->
 
 ## 项目经历
 ### *2020.02 - 至今*&nbsp;&nbsp;&nbsp;德济医院互联网医院
@@ -33,7 +33,7 @@ CET6
 #### 技术栈：Platform-Cordova & Browser | DOM Framework-Jquery | UI Framework-内部开发 | Module Loader-Requirejs
 - 负责部分业务模块
 - 参与开发UI框架编写
-- 优化白屏FCP时间，由1.2s减少到0.2s
+- 优化白屏FCP时间，由1.2s减少到0.2s，提升用户体验
 - 根据项目搭建脚手架，供后续院内系统开发使用
 ### *2020.06 - 2020.08*&nbsp;&nbsp;&nbsp;德济医院线下挂号系统
 #### 技术栈：Platform-Electron | UI Framework-Antd | CSS Preloader-less | Bundle-Electron Forge
